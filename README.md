@@ -8,26 +8,67 @@
 
 ---
 
+## Project Details
+
+**Project Title:** Cloud-Based Warehouse and Logistics Management System (CWLMS)
+
+**Course:** Cloud Infrastructure and Services (25CS2206E) | **A.Y.:** 2026-2027
+
+### Project Description
+
+CWLMS is a scalable digital platform that streamlines inventory management, order tracking, warehousing operations and logistics processes in real time through a secure, cloud-based environment.
+
+### Team Members
+
+**Team Number:** 7 | **Section:** 4
+
+| S.No. | Name | Roll No. |
+|---|---|---|
+| 1 | Krish Sureja | 2520030134 |
+| 2 | Harshit Sajjanapu | 2520030187 |
+| 3 | Karthik Vanka | 2520030053 |
+
+### Guide Details
+
+**Dr. V. Sireesha**  
+Professor, Department of CSE  
+KLH University, Bowrampet, Hyderabad-500043, Telangana, India.
+
+---
+
 ## Table of Contents
 
-1. [Overview](#overview)
-2. [Problem Statement](#problem-statement)
-3. [Objectives](#objectives)
-4. [How It Works: Life of One Order](#how-it-works-life-of-one-order)
-5. [Features and Modules](#features-and-modules)
-6. [System Architecture](#system-architecture)
-7. [Tech Stack](#tech-stack)
-8. [Suggested Project Structure](#suggested-project-structure)
-9. [Getting Started](#getting-started)
-10. [Security](#security)
-11. [Roadmap](#roadmap)
-12. [Advantages and Challenges](#advantages-and-challenges)
-13. [Real-World Applications](#real-world-applications)
-14. [Future Scope](#future-scope)
-15. [Glossary](#glossary)
-16. [Contributing](#contributing)
-17. [Author](#author)
-18. [License](#license)
+1. [Project Details](#project-details)
+2. [Abstract](#abstract)
+3. [Overview](#overview)
+4. [Problem Statement](#problem-statement)
+5. [Objectives](#objectives)
+6. [How It Works: Life of One Order](#how-it-works-life-of-one-order)
+7. [Features and Modules](#features-and-modules)
+8. [System Architecture](#system-architecture)
+9. [Tech Stack](#tech-stack)
+10. [Suggested Project Structure](#suggested-project-structure)
+11. [Getting Started](#getting-started)
+12. [Security](#security)
+13. [Roadmap](#roadmap)
+14. [Advantages and Challenges](#advantages-and-challenges)
+15. [Real-World Applications](#real-world-applications)
+16. [Future Scope](#future-scope)
+17. [Glossary](#glossary)
+18. [Contributing](#contributing)
+19. [License](#license)
+
+---
+
+## Abstract
+
+The Cloud-Based Warehouse and Logistics Management System (CWLMS) is a scalable, web-accessible platform that digitizes the entire supply chain, from receiving and storing goods to picking, packing, dispatching and delivering orders. Traditional warehouses depend on paper registers and spreadsheets, which lead to data errors, stock mismatches, slow order processing and poor route planning. CWLMS replaces them with one secure cloud platform that gives staff, managers, drivers, suppliers and customers the same live view.
+
+The system provides real-time inventory tracking with barcode scanning and low-stock alerts; automated order management from placement to delivery; warehouse operations such as put-away, picking and cycle counting; vehicle and driver management with live GPS tracking; role-based access control; notifications; invoicing; and analytics dashboards with demand forecasting. It follows a multi-tier, cloud-native architecture hosted on AWS, so it scales automatically and stays highly available.
+
+Expected outcomes include reduced manual effort and cost, fewer stock errors, faster order fulfilment, on-time deliveries and data-driven decisions through a secure, pay-as-you-go model.
+
+**AWS services:** Amazon EC2 (with Load Balancing and Auto Scaling), RDS (PostgreSQL), ElastiCache (Redis), S3, CloudFront, Lambda, SQS, SNS, SES, Cognito, IAM, Location Service and CloudWatch.
 
 ---
 
@@ -405,13 +446,6 @@ Contributions are welcome.
 3. Commit your changes: `git commit -m "Add your feature"`
 4. Push the branch: `git push origin feature/your-feature`
 5. Open a Pull Request
-
----
-
-## Author
-
-**Harshit Sajjanapu**
-GitHub: [@HershyX](https://github.com/HershyX)
 
 ---
 
